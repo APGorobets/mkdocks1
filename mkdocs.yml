@@ -1,0 +1,10 @@
+site_name: Zebrunner
+nav:
+    - Dashboards: dashboards.md
+    - Integrations: integrations.md
+    - Projects: projects.md
+    - Registration: registration.md
+    - TestRuns: testruns.md
+    - UserProfile: userprofile.md
+    - Widgets: widgets.md
+theme: flatly
