@@ -12,7 +12,7 @@ The upper bar of the window holds several icons with the actions that could be p
 * Dashboard editing
 * Adding new widget to the dashboard
 
-To send the current dashboard via email:
+###### To send the current dashboard via email:
 1. Click on the arrow icon in the upper-right corner of the window:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_%20dashboard%20via%20email_overview.png?raw=true)
@@ -26,9 +26,18 @@ To send the current dashboard via email:
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20vie%20email_popup.png?raw=true)
 
 3. “Name” and “Text” fields are filled by default, the text is changeable. Fill in the “Recipients” field (unlimited number of emails per time), and press the “Send” button.
-Pop-up message “Email was successfully sent” would appear in the lower-right corner of the window.
 
-4. To change the widget placement / resize, click on the “Widgets” icon in the upper-right corner of the window:
+4. Pop-up message “Email was successfully sent” would appear in the lower-right corner of the window
 
 5. Email view of the General Dashboards page: 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20via%20email_sent.png?raw=true)
+
+###### To change the widget placement / resize the widget, click on the “Widgets” icon in the upper-right corner of the window:
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_placement_overview.jpeg?raw=true)
+
+In this mode, the size of all widgets can be changed (the arrows at every corner of the widget - the same principle as system windows):
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_changesize.jpeg?raw=true)
+
+All the widgets on a dashboard could be arranged the way you prefer using the drag and drop method.
+###### (VIDEO)
+![alt text]()
