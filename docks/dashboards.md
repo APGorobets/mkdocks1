@@ -52,5 +52,6 @@ If you’ve changed your mind, click on **“Cancel”** button. The last saved 
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20edit.png?raw=true)
 The following pop-up will appear:
+
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20edit_closeup.png?raw=true)
 
