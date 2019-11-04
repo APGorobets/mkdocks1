@@ -5,6 +5,7 @@ The “Projects” service is used for switching between the projects and sub-pr
 Once you’ve switched to the necessary project, all the data in Dashboards and Widgets will be displayed accordingly.
 
 To open the menu, navigate to the lower-left corner of the window to the icon of the project (available from all the pages):
+
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnn_proj_1.png?raw=true)
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnn_proj_2.png?raw=true)
