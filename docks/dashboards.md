@@ -70,3 +70,18 @@ The following pop-up will appear:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_%20dashboards_add_popup.png?raw=true)
 
+Create the name for the dashboard, choose whether it would be hidden or seen to other users (incl. admins), and press **“Create”** button.
+
+#### Search panel
+
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_search.png?raw=true)
+The search criteria:
+**name of the dashboard**
+
+The list of default Dashboards (НУЖНЫ НОРМАЛЬНЫЕ СКРИНШОТЫ на STAGE скриншотов нет):
+
+*  Personal (incl. Widgets - Last 24 hours / 7 days/ 30 days personal; 30 days tests personal trend; Last 24 hours personal + failures)
+* . Failures Analysis (Last 24 hours failure count; Last 24 hours personal details)
+* . User Performance (Personal Total Rate; Personal Total Tests (Man-hours); Monthly Test Implementation Progress (Number Of * . Test Methods Implemented By Person); Total Personal Tests Trend)
+* . Stability (Test Case Stability (%); Testcase info; Test Case Stability Trend (%); Test Case Duration Details (Sec)
+
