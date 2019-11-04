@@ -57,5 +57,9 @@ The following pop-up will appear:
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20widget_edit_popup.png?raw=true)
 
 Fill in the *Key* and *Value* fields and click on **“Save”** button.
+
 *Please, note that neither the name of the General dashboard nor **“Hidden”** status cannot be changed - they are set by default. These options are available for custom dashboards. **(Permissions here)***
 
+#### To create a new dashboard, navigate to the side menu and click on the “Dashboards” icon and then on the “+Add dashboard” icon:
+
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_menu_overview.png?raw=true)
