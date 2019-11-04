@@ -97,3 +97,4 @@ The list of default Dashboards:
 * Stability (Test Case Stability (%); Testcase info; Test Case Stability Trend (%); Test Case Duration Details (Sec)
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_personal_filled.png?raw=true)
+
