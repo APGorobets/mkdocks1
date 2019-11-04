@@ -1,4 +1,4 @@
-Dashboards
+#h1 Dashboards
 
 General is the main page that will be displayed by default when you open Zebrunner.
  (Could it be changed for smth else?) 
@@ -20,3 +20,6 @@ Click on the arrow icon in the upper-right corner of the window:
 
 “Name” and “Text” fields are filled by default, the text is changeable. Fill in the “Recipients” field (unlimited number of emails per time), and press the “Send” button.
 Pop-up message “Email was successfully sent” would appear in the lower-right corner of the window.
+
+
+To change the widget placement / resize, click on the “Widgets” icon in the upper-right corner of the window:
