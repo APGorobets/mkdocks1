@@ -21,6 +21,9 @@ To send the current dashboard via email:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20via%20email_closeup.png?raw=true)
 
+2. The following pop-up would appear:
+
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20vie%20email_popup.png?raw=true)
 
 “Name” and “Text” fields are filled by default, the text is changeable. Fill in the “Recipients” field (unlimited number of emails per time), and press the “Send” button.
 Pop-up message “Email was successfully sent” would appear in the lower-right corner of the window.
