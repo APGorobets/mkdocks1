@@ -14,6 +14,7 @@ The upper bar of the window holds several icons with the actions that could be p
 
 To send the current dashboard via email:
 1. Click on the arrow icon in the upper-right corner of the window:
+
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_%20dashboard%20via%20email_overview.png?raw=true)
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20via%20email_closer.png?raw=true)
