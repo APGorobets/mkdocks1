@@ -63,3 +63,10 @@ Fill in the *Key* and *Value* fields and click on **“Save”** button.
 #### To create a new dashboard, navigate to the side menu and click on the “Dashboards” icon and then on the “+Add dashboard” icon:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_menu_overview.png?raw=true)
+
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_add%20new.png?raw=true)
+
+The following pop-up will appear:
+
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_%20dashboards_add_popup.png?raw=true)
+
