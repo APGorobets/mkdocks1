@@ -12,7 +12,7 @@ The upper bar of the window holds several icons with the actions that could be p
 * Dashboard editing
 * Adding new widget to the dashboard
 
-###### To send the current dashboard via email:
+#### To send the current dashboard via email:
 1. Click on the arrow icon in the upper-right corner of the window:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_%20dashboard%20via%20email_overview.png?raw=true)
@@ -32,12 +32,18 @@ The upper bar of the window holds several icons with the actions that could be p
 5. Email view of the General Dashboards page: 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20via%20email_sent.png?raw=true)
 
-###### To change the widget placement / resize the widget, click on the “Widgets” icon in the upper-right corner of the window:
+#### To change the widget placement / resize the widget, click on the “Widgets” icon in the upper-right corner of the window:
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_placement_overview.jpeg?raw=true)
 
 In this mode, the size of all widgets can be changed (the arrows at every corner of the widget - the same principle as system windows):
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_changesize.jpeg?raw=true)
 
-All the widgets on a dashboard could be arranged the way you prefer using the drag and drop method.(VIDEO)
+All the widgets on a dashboard could be arranged the way you prefer using the drag and drop method. (VIDEO)
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_widgets_placement.jpeg?raw=true)
+
+Once all the necessary changes are done, click on “Apply” button in the upper-right corner of the page:
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_widgets_actions_apply-cancel.jpeg?raw=true)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_widgets_actions_apply-cancel_closeup.jpeg?raw=true)
+
+If you’ve changed your mind, click on **“Cancel”** button. The last saved version of the Widgets set and placement will be displayed.
