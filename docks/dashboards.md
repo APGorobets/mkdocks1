@@ -12,7 +12,10 @@ The upper bar of the window holds several icons with the actions that could be p
 * Dashboard editing
 * Adding new widget to the dashboard
 
-#### To send the current dashboard via email:
+#### Sending dashboards via email 
+
+**To send the current dashboard via email:**
+
 1. Click on the arrow icon in the upper-right corner of the window:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_%20dashboard%20via%20email_overview.png?raw=true)
@@ -32,7 +35,9 @@ The upper bar of the window holds several icons with the actions that could be p
 5. Email view of the General Dashboards page: 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20via%20email_sent.png?raw=true)
 
-#### To change the widget placement / resize the widget, click on the “Widgets” icon in the upper-right corner of the window:
+#### Working with widgets
+
+To change the widget placement / resize the widget, click on the “Widgets” icon in the upper-right corner of the window:
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_placement_overview.jpeg?raw=true)
 
 In this mode, the size of all widgets can be changed (the arrows at every corner of the widget - the same principle as system windows):
@@ -48,7 +53,9 @@ Once all the necessary changes are done, click on “Apply” button in the uppe
 
 If you’ve changed your mind, click on **“Cancel”** button. The last saved version of the Widgets set and placement will be displayed.
 
-#### To edit the dashboard, click on the pencil icon in the upper-right corner of the window:
+#### Editing the dashboard
+
+To edit the dashboard, click on the pencil icon in the upper-right corner of the window:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20edit.png?raw=true)
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20edit_closeup.png?raw=true)
@@ -60,7 +67,9 @@ Fill in the *Key* and *Value* fields and click on **“Save”** button.
 
 *Please, note that neither the name of the General dashboard nor **“Hidden”** status cannot be changed - they are set by default. These options are available for custom dashboards. **(Permissions here)***
 
-#### To create a new dashboard, navigate to the side menu and click on the “Dashboards” icon and then on the “+Add dashboard” icon:
+#### Creating a new dashboard
+
+To create a new dashboard, navigate to the side menu and click on the “Dashboards” icon and then on the “+Add dashboard” icon:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_menu_overview.png?raw=true)
 
@@ -80,10 +89,11 @@ The search criteria:
 
 **name of the dashboard**
 
-The list of default Dashboards (НУЖНЫ НОРМАЛЬНЫЕ СКРИНШОТЫ на STAGE скриншотов нет):
+The list of default Dashboards:
 
 * Personal (incl. Widgets - Last 24 hours / 7 days/ 30 days personal; 30 days tests personal trend; Last 24 hours personal + failures)
 * Failures Analysis (Last 24 hours failure count; Last 24 hours personal details)
 * User Performance (Personal Total Rate; Personal Total Tests (Man-hours); Monthly Test Implementation Progress (Number Of * Test Methods Implemented By Person); Total Personal Tests Trend)
 * Stability (Test Case Stability (%); Testcase info; Test Case Stability Trend (%); Test Case Duration Details (Sec)
 
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_personal_filled.png?raw=true)
