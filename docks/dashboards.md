@@ -13,10 +13,10 @@ The upper bar of the window holds several icons with the actions that could be p
 * Adding new widget to the dashboard
 
 To send the current dashboard via email:
-
 1. Click on the arrow icon in the upper-right corner of the window:
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_%20dashboard%20via%20email_overview.png?raw=true)
-
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20via%20email_closer.png?raw=true)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20via%20email_closeup.png?raw=true)
 
 
 “Name” and “Text” fields are filled by default, the text is changeable. Fill in the “Recipients” field (unlimited number of emails per time), and press the “Send” button.
