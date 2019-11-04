@@ -1,4 +1,4 @@
-#h1 Dashboards
+## Dashboards
 
 General is the main page that will be displayed by default when you open Zebrunner.
  (Could it be changed for smth else?) 
