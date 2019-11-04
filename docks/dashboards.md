@@ -25,8 +25,10 @@ To send the current dashboard via email:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20vie%20email_popup.png?raw=true)
 
-“Name” and “Text” fields are filled by default, the text is changeable. Fill in the “Recipients” field (unlimited number of emails per time), and press the “Send” button.
+3. “Name” and “Text” fields are filled by default, the text is changeable. Fill in the “Recipients” field (unlimited number of emails per time), and press the “Send” button.
 Pop-up message “Email was successfully sent” would appear in the lower-right corner of the window.
 
+4. To change the widget placement / resize, click on the “Widgets” icon in the upper-right corner of the window:
 
-To change the widget placement / resize, click on the “Widgets” icon in the upper-right corner of the window:
+5. Email view of the General Dashboards page: 
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20via%20email_sent.png?raw=true)
