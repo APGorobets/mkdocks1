@@ -36,8 +36,8 @@ The upper bar of the window holds several icons with the actions that could be p
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_placement_overview.jpeg?raw=true)
 
 In this mode, the size of all widgets can be changed (the arrows at every corner of the widget - the same principle as system windows):
+
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_changesize.jpeg?raw=true)
 
-All the widgets on a dashboard could be arranged the way you prefer using the drag and drop method.
-###### (VIDEO)
-![alt text]()
+All the widgets on a dashboard could be arranged the way you prefer using the drag and drop method.(VIDEO)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_widgets_placement.jpeg?raw=true)
