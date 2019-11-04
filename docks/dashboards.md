@@ -51,7 +51,11 @@ If you’ve changed your mind, click on **“Cancel”** button. The last saved 
 #### To edit the dashboard, click on the pencil icon in the upper-right corner of the window:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20edit.png?raw=true)
-The following pop-up will appear:
-
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20edit_closeup.png?raw=true)
+
+The following pop-up will appear:
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20widget_edit_popup.png?raw=true)
+
+Fill in the *Key* and *Value* fields and click on **“Save”** button.
+*Please, note that neither the name of the General dashboard nor **“Hidden”** status cannot be changed - they are set by default. These options are available for custom dashboards. **(Permissions here)***
 
