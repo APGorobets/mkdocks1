@@ -32,7 +32,7 @@ The upper bar of the window holds several icons with the actions that could be p
 5. Email view of the General Dashboards page: 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20via%20email_sent.png?raw=true)
 
-#### To change the widget placement / resize the widget, click on the “Widgets” icon in the upper-right corner of the window:
+#### To **change** the widget placement / resize the widget, click on the “Widgets” icon in the upper-right corner of the window:
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_placement_overview.jpeg?raw=true)
 
 In this mode, the size of all widgets can be changed (the arrows at every corner of the widget - the same principle as system windows):
@@ -47,3 +47,5 @@ Once all the necessary changes are done, click on “Apply” button in the uppe
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_widgets_actions_apply-cancel_closeup.jpeg?raw=true)
 
 If you’ve changed your mind, click on **“Cancel”** button. The last saved version of the Widgets set and placement will be displayed.
+
+#### To **edit** the dashboard, click on the pencil icon in the upper-right corner of the window:
