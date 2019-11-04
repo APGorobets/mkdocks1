@@ -87,7 +87,7 @@ Create the name for the dashboard, choose whether it would be hidden or seen to 
 
 The search criteria:
 
-**name of the dashboard**
+* Name of the dashboard
 
 The list of default Dashboards:
 
