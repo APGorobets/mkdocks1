@@ -13,7 +13,9 @@ The upper bar of the window holds several icons with the actions that could be p
 * Adding new widget to the dashboard
 
 To send the current dashboard via email:
-Click on the arrow icon in the upper-right corner of the window:
+
+1. Click on the arrow icon in the upper-right corner of the window:
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_%20dashboard%20via%20email_overview.png?raw=true)
 
 
 
