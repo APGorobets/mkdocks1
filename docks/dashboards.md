@@ -75,7 +75,9 @@ Create the name for the dashboard, choose whether it would be hidden or seen to 
 #### Search panel
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_search.png?raw=true)
+
 The search criteria:
+
 **name of the dashboard**
 
 The list of default Dashboards (НУЖНЫ НОРМАЛЬНЫЕ СКРИНШОТЫ на STAGE скриншотов нет):
