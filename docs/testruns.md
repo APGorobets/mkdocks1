@@ -13,12 +13,14 @@ The UI of a single test run consists of:
 * A brief statistics of the test run (Passed // Failed/Failed with a known issue/ Blockers // Skipped)
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnn-testruns-3.png?raw=true)
+
 * The date the test run was started and lower - the duration of the test run
 
 If you click on the test run, you will be redirected to the page with the additional details:
 
-* More options menu ⋮ gives the possibility to perform the following actions:
+More options menu ⋮ gives the possibility to perform the following actions:
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnn-testruns-4.png?raw=true)
+
 
 * Open the test run (you can also open the test run by clicking on the field of it (not on the name)) - the test run would be opened in a new tab
 * Copy link - the direct link to the test run is copied to clipboard (every test run is given an index number)
