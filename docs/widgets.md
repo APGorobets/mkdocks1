@@ -4,10 +4,12 @@ Widgets are grouped into dashboards.
 There are two types of widgets: default and custom. You can choose between the 14 types of pre-configured widgets or 11 types of configurable templates.
 
 To create a new widget, perform the following steps:
+#### Step 1
 1. Navigate to the "Dashboards" page (a.k.a “General”) and click "+ NEW WIDGET" button in the top-right corner of the page:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-1.png?raw=true)
 
+#### Step 2
 2. The “Choose widget” pop-up would appear, where you can choose one or several of the following configurable templates:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-2.png?raw=true)
@@ -77,11 +79,11 @@ To create a new widget, perform the following steps:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-16.png?raw=true)
 
- 
+#### Step 3
 3. You can add an unlimited quantity of widgets to the dashboard.
 To add the widget, click on it, and when you’ve chosen all the widgets you need, click the «Add» button.
 
-
+#### Step 4
 4. If you’ve changed your mind and don’t want to add one or several of the already chosen widgets, click on the three dots/additional options/menu icon and choose «Delete», all the selected items will be deleted.
 When you’ve added a widget to the dashboard, it would be marked with the word «Added» and the tick:
 
