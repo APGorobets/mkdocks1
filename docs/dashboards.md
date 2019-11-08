@@ -3,6 +3,7 @@
   General is the main page that will be displayed by default when you open Zebrunner.
 By default, it accumulates 4 widgets - 30 days total, 30 days pass rate by platform, 30 days test details, and 30 days tests trend.
 Later on, all the other added widgets would also be displayed there:
+
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr%20_general%20dashboards.png?raw=true)
 
 The upper bar of the window holds several icons with the actions that could be performed with the dashboard and its widgets:
@@ -28,12 +29,14 @@ The upper bar of the window holds several icons with the actions that could be p
 
 4. Pop-up message “Email was successfully sent” would appear in the lower-right corner of the window
 
-5. Email view of the General Dashboards page: 
+5. Email view of the General Dashboards page:
+
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20via%20email_sent.png?raw=true)
 
 #### Working with widgets
 
 To change the widget placement / resize the widget, click on the “Widgets” icon in the upper-right corner of the window:
+
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_placement_overview.jpeg?raw=true)
 
 In this mode, the size of all widgets can be changed (the arrows at every corner of the widget - the same principle as system windows):
@@ -45,7 +48,6 @@ All the widgets on a dashboard could be arranged the way you prefer using the dr
 
 Once all the necessary changes are done, click on “Apply” button in the upper-right corner of the page:
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_widgets_actions_apply-cancel.jpeg?raw=true)
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_widgets_actions_apply-cancel_closeup.jpeg?raw=true)
 
 If you’ve changed your mind, click on **“Cancel”** button. The last saved version of the Widgets set and placement will be displayed.
 
@@ -54,7 +56,6 @@ If you’ve changed your mind, click on **“Cancel”** button. The last saved 
 To edit the dashboard, click on the pencil icon in the upper-right corner of the window:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20edit.png?raw=true)
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20edit_closeup.png?raw=true)
 
 The following pop-up will appear:
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20widget_edit_popup.png?raw=true)
