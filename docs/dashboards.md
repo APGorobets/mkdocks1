@@ -1,9 +1,5 @@
 ## Dashboards
 
-#### Overview
-
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/dashboards-overview.gif?raw=true)
-
   General is the main page that will be displayed by default when you open Zebrunner.
 By default, it accumulates 4 widgets - 30 days total, 30 days pass rate by platform, 30 days test details, and 30 days tests trend.
 Later on, all the other added widgets would also be displayed there:
@@ -48,8 +44,8 @@ In this mode, the size of all widgets can be changed (the arrows at every corner
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_changesize.jpeg?raw=true)
 
-All the widgets on a dashboard could be arranged the way you prefer using the drag and drop method. (VIDEO)
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_widgets_placement.jpeg?raw=true)
+All the widgets on a dashboard could be arranged the way you prefer using the drag and drop method.
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/dashboards-overview.gif?raw=true)
 
 Once all the necessary changes are done, click on “Apply” button in the upper-right corner of the page:
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_widgets_actions_apply-cancel.jpeg?raw=true)
