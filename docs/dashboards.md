@@ -85,12 +85,29 @@ The search criteria:
 
 * Name of the dashboard
 
-The list of default Dashboards:
+The list of default Dashboards (with widgets):
 
-* Personal (incl. Widgets - Last 24 hours / 7 days/ 30 days personal; 30 days tests personal trend; Last 24 hours personal + failures)
-* Failures Analysis (Last 24 hours failure count; Last 24 hours personal details)
-* User Performance (Personal Total Rate; Personal Total Tests (Man-hours); Monthly Test Implementation Progress (Number Of * Test Methods Implemented By Person); Total Personal Tests Trend)
-* Stability (Test Case Stability (%); Testcase info; Test Case Stability Trend (%); Test Case Duration Details (Sec)
+* Personal
+  + Last 24 hours
+  + 7 days/ 30 days personal
+  + 30 days tests personal trend
+  + Last 24 hours personal + failures
+
+* Failures Analysis
+  + Last 24 hours failure count
+  + Last 24 hours personal details
+  
+* User Performance
+  + Personal Total Rate
+  + Personal Total Tests (Man-hours)
+  + Monthly Test Implementation Progress (Number Of Test Methods Implemented By Person)
+  + Total Personal Tests Trend
+  
+* Stability
+  + Test Case Stability (%)
+  + Testcase info
+  + Test Case Stability Trend (%)
+  + Test Case Duration Details (Sec)
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_personal_filled.png?raw=true)
 
