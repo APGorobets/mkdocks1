@@ -1,4 +1,4 @@
-site_name: Zebrunner
+site_name: My Docs
 nav:
     - Dashboards: dashboards.md
     - Integrations: integrations.md
@@ -6,5 +6,9 @@ nav:
     - Registration: registration.md
     - TestRuns: testruns.md
     - UserProfile: userprofile.md
+    - UserGroups: usergroups.md
     - Widgets: widgets.md
-theme: flatly
+theme: 
+  name: 'material'
+repo_url: https://github.com/APGorobets/mkdocks1
+repo_name: Github
