@@ -12,7 +12,9 @@ There are two types of widgets: default and custom. You can choose between the 1
 
 2. The “Choose widget” pop-up would appear, where you can choose one or several of the following configurable templates:
 
+
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-2.png?raw=true)
+
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-3.png?raw=true)
 
