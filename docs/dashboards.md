@@ -37,7 +37,7 @@ The upper bar of the window holds several icons with the actions that could be p
 
 To change the widget placement / resize the widget, click on the “Widgets” icon in the upper-right corner of the window:
 
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_widget_placement_overview.jpeg?raw=true)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/04-01.jpg?raw=true)
 
 In this mode, the size of all widgets can be changed (the arrows at every corner of the widget - the same principle as system windows):
 
@@ -55,10 +55,10 @@ If you’ve changed your mind, click on **“Cancel”** button. The last saved 
 
 To edit the dashboard, click on the pencil icon in the upper-right corner of the window:
 
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards%20edit.png?raw=true)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/03-01.jpg?raw=true)
 
 The following pop-up will appear:
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20widget_edit_popup.png?raw=true)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/edit_dashboards_popup.jpeg?raw=true)
 
 Fill in the *Key* and *Value* fields and click on **“Save”** button.
 
@@ -68,13 +68,11 @@ Fill in the *Key* and *Value* fields and click on **“Save”** button.
 
 To create a new dashboard, navigate to the side menu and click on the “Dashboards” icon and then on the “+Add dashboard” button:
 
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_menu_overview.png?raw=true)
-
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboards_add%20new.png?raw=true)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/05-01.jpg?raw=true)
 
 The following pop-up will appear:
 
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_%20dashboards_add_popup.png?raw=true)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/new_dashboad_popup.jpeg?raw=true)
 
 Create the name for the dashboard, choose whether it would be hidden or seen to other users (incl. admins), and press **“Create”** button.
 
