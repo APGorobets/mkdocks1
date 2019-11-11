@@ -15,15 +15,15 @@ The upper bar of the window holds several icons with the actions that could be p
 
 #### Sending dashboards via email 
 
-**To send the current dashboard via email:**
+##### To send the current dashboard via email:
 
 1. Click on the arrow icon in the upper-right corner of the window:
 
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-dashboards-new-1.jpg?raw=true)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/01-01.jpg?raw=true)
 
 2. The following pop-up would appear:
 
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr_dashboard%20vie%20email_popup.png?raw=true)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/06-01.jpg?raw=true)
 
 3. “Name” and “Text” fields are filled by default, the text is changeable. Fill in the “Recipients” field (unlimited number of emails per time), and press the “Send” button.
 
