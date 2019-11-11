@@ -31,6 +31,10 @@ There are two types of widgets: default and custom. You can choose between the 1
 * Tests summary (Detailed information about passed, failed, skipped, etc. tests)
 
 ##### **OR choose from various existing widgets**
+
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/choose_widget_1.jpg?raw=true)
+
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/choose_widgets_2.jpg?raw=true)
 * 30 days pass rate by platform (%) (Pass rate by platform (%))
 * 30 days test details (Detailed information about passed, failed, skipped, etc. tests for the last 30 days)
 * 30 days personal trend (Consolidated personal test status trend for the last 30 days)
