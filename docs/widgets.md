@@ -58,5 +58,3 @@ To add the widget, click on it, and when you’ve chosen all the widgets you nee
 When you’ve added a widget to the dashboard, it would be marked with the word «Added» and the tick:
 
 ![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-17.png?raw=true)
-
-All the widgets are movable with the drag and drop method. (VIDEO)
