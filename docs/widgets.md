@@ -11,12 +11,10 @@ There are two types of widgets: default and custom. You can choose between the 1
 
 
 2. The “Choose widget” pop-up would appear, where you can choose one or several of the following configurable templates:
-
-
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-2.png?raw=true)
-
-
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-3.png?raw=true)
+ 
+<img src="https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-2.png?raw=true" alt="" width="500" />
+ 
+<img src="https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-3.png?raw=true" alt="" width="500" />
 
 * Application issues (blockers) count (A number of unique application bugs discovered and submitted by automation)
 * Application issues (blocker) details (Detailed information about known issues and blockers)
@@ -32,9 +30,10 @@ There are two types of widgets: default and custom. You can choose between the 1
 
 ##### **OR choose from various existing widgets**
 
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/choose_widget_1.jpg?raw=true)
+<img src="https://github.com/APGorobets/mkdocks1/blob/master/images/choose_widget_1.jpg?raw=true" alt="" width="500" />
 
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/choose_widgets_2.jpg?raw=true)
+<img src="https://github.com/APGorobets/mkdocks1/blob/master/images/choose_widgets_2.jpg?raw=true" alt="" width="500" />
+
 * 30 days pass rate by platform (%) (Pass rate by platform (%))
 * 30 days test details (Detailed information about passed, failed, skipped, etc. tests for the last 30 days)
 * 30 days personal trend (Consolidated personal test status trend for the last 30 days)
