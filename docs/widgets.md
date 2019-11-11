@@ -7,7 +7,7 @@ There are two types of widgets: default and custom. You can choose between the 1
 
 1. Navigate to the "Dashboards" page (a.k.a “General”) and click "+ NEW WIDGET" button in the top-right corner of the page:
 
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-1.png?raw=true)
+![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/04-01.jpg?raw=true)
 
 
 2. The “Choose widget” pop-up would appear, where you can choose one or several of the following configurable templates:
