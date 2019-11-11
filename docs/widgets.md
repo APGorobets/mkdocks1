@@ -56,4 +56,4 @@ To add the widget, click on it, and when you’ve chosen all the widgets you nee
 4. If you’ve changed your mind and don’t want to add one or several of the already chosen widgets, click on the three dots/additional options/menu icon and choose «Delete», all the selected items will be deleted.
 When you’ve added a widget to the dashboard, it would be marked with the word «Added» and the tick:
 
-![alt text](https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-17.png?raw=true)
+<img src="https://github.com/APGorobets/mkdocks1/blob/master/images/zbrnnr-widgets-17.png?raw=true" alt="" width="500" />
